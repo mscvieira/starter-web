@@ -8,6 +8,10 @@ Sample website with plenty of files for demos
 
 ## CENAs
 
+## HOW TO CONTRIBUTE
+
+Please fork this repository and then issue pull request for review
+
 ### Copyright
 
 git cenas
