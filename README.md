@@ -7,6 +7,7 @@ blabla bla
 Sample website with plenty of files for demos
 
 ## CENAs
+aqui adicionae cenas
 
 ## HOW TO CONTRIBUTE
 
