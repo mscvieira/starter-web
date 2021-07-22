@@ -7,3 +7,7 @@ blabla bla
 Sample website with plenty of files for demos
 
 ## CENAs
+
+### Copyright
+
+git cenas
