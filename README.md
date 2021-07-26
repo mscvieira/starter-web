@@ -16,4 +16,4 @@ Please fork this repository and then issue pull request for review
 
 ### Copyright
 
-git cenas
+git cenas. Stashing example changes
